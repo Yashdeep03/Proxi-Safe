@@ -15,3 +15,4 @@ You can find my google colab file here. [Social distance detector colab](https:/
 * **Email:[21BCS4897@cuchd.in]
 * **LinkedIn: [Yashdeep](https://www.linkedin.com/in/yashdeep-032972226)**
 
+![social_distance_detector_people_detections](https://user-images.githubusercontent.com/124045454/236790309-fed3c4d7-d47e-47f5-b11f-bf1e8b5cb6cf.jpg)
