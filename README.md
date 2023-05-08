@@ -1,4 +1,4 @@
-# Social-distance-detection
+## Social-distance-detection
 
 
 # Github usually doesn't support files larger than 25 Mb.You can find the yolo weights in [My google drive](https://drive.google.com/file/d/1iXQXY0SKjCBIStP5dML5pEGppdO-tiAd/view?usp=sharing) 
